@@ -1,0 +1,159 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+h1 {
+
+}/* Add your styles here */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Source Code Pro;
+} 
+
+img {
+  width: 130px;
+  height: 100px;
+}
+.a {
+margin-top: 15px;
+  color: black ;
+}
+
+body{
+ padding: 20px;
+  background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 16%, rgba(68, 255, 0, 1) 100%);
+}
+
+header{
+  background-color: white;
+ padding: 6px;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #ffffff;
+background: linear-gradient(90deg, rgba(255, 255, 255, 1) 54%, rgba(212, 237, 254, 1) 80%, rgba(0, 146, 250, 1) 100%);
+
+  
+}
+
+.a {
+  text-align: center;
+color: #1919A2;
+font-family: Courier New;
+background-color: white;
+}
+
+.dog{
+  text-align: center;
+}
+
+.golovne{
+  color: #5429D3;
+  background-color: #6E86E6;
+  width: 200px;
+ 
+}
+
+.golovne:hover{
+    background-color: #2adede;
+    color: white;
+    font-size: 25px;
+    transition: all 2s ease-out;
+}
+
+ 
+
+.green-images {
+  color: #00FC9C;
+  background-color: #458f66;
+}
+
+ .ggolovne:hover{
+    background-color: #00FC9C;
+    color: white;
+    font-size: 25px;
+    transition: all 2s ease-out;
+    
+} 
+ .gggolovne:hover{
+    background-color: #00ff2a;
+    color: white;
+    font-size: 25px;
+    transition: all 2s ease-out;
+     
+} 
+
+.gggolovne {
+  background-color: #6E86E6;
+}
+
+.ggolovne {
+  background-color: #6E86E6;
+}
+
+
+article {
+    font-size: 20px;
+    padding: 20px;
+    width: 100px;
+    margin: 20px;
+    border: 1px solid navy;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.about {
+  background-color: white;
+  padding: 2px 15px;
+  border-radius: 20px;
+  margin-top: 20px;
+  opacity: 0.8;
+  background: #ffffff;
+background: linear-gradient(90deg, rgba(255, 255, 255, 1) 39%, rgba(255, 255, 255, 1) 0%, rgba(143, 143, 143, 1) 100%);
+
+}
+
+footer {
+  background-color: white;
+  opacity: 0.7;
+  margin-top: 30px;
+}
+
+
+
+.photos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.uvaga {
+background-color: red;
+color: aliceblue;
+margin-top: 50px;
+}
+
+.pp {
+background: #e31212;
+background: linear-gradient(90deg, rgba(227, 18, 18, 1) 27%, rgba(3, 3, 3, 1) 100%);
+margin-top: 20px;
+  border-radius: 30px;
+  color: antiquewhite;
+}
+
+.fot {
+  background-color: chartreuse;
+  color: #1919A2;
+  margin-top: 100px;
+}
+
+.ww {
+  background-color: aliceblue;
+  color: #e31212;
+  border-radius: 5px;
+}
